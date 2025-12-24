@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "558147196175",
+    "firebase_url": "https://kin-rai-dee-65223-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "kin-rai-dee-65223",
+    "storage_bucket": "kin-rai-dee-65223.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558147196175:android:862c000e7aab574bfb1a7a",
+        "android_client_info": {
+          "package_name": "com.example.kin_rai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp051fm70Hbxx9bkvxefWqvR-6Fc_F4zE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558147196175:android:3f9134608bfa8320fb1a7a",
+        "android_client_info": {
+          "package_name": "com.example.kin_rai_dee"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp051fm70Hbxx9bkvxefWqvR-6Fc_F4zE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
